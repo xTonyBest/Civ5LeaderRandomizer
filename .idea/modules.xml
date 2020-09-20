@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Civ5RNG.iml" filepath="$PROJECT_DIR$/Civ5RNG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Civ5LeaderRamomizer.iml" filepath="$PROJECT_DIR$/Civ5LeaderRamomizer.iml" />
     </modules>
   </component>
 </project>

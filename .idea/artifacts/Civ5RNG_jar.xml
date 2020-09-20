@@ -2,7 +2,7 @@
   <artifact type="jar" name="Civ5RNG:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Civ5RNG_jar</output-path>
     <root id="archive" name="Civ5RNG.jar">
-      <element id="module-output" name="Civ5RNG" />
+      <element id="module-output" name="Civ5LeaderRamomizer" />
     </root>
   </artifact>
 </component>
