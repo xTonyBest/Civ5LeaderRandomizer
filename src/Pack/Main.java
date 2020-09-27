@@ -1,11 +1,9 @@
 package Pack;
 
-import static Pack.Interface.generateInterface;
+import static Pack.NewInterface.generateNewInterface;
 
 public class Main {
     public static void main(String[] args) {
-
-       generateInterface(new CivRNG());
-
+       generateNewInterface(new CivRNG());
     }
 }
